@@ -33,6 +33,8 @@ To use this project, follow these steps:
 
 ![](https://github.com/Boolean-01/Zomato_Exploratory_data_analysis_project/blob/main/snip2.png)
 
+![](https://github.com/Boolean-01/Zomato_Exploratory_data_analysis_project/blob/main/snip3.png)
+
 ## Dependencies
 This project requires the following dependencies:
 
