@@ -29,7 +29,8 @@ To use this project, follow these steps:
 This project requires the following dependencies:
 
    1. Python IDE (e.g., PyCharm, Jupyter Notebook)
-      Libraries:
+
+   2. Libraries:
          Pandas
          Numpy
          Matplotlib
