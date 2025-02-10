@@ -12,3 +12,37 @@ To run this project, you will need a Python IDE and some essential libraries for
 2. Install the required libraries using `pip`:
    ```bash
    pip install pandas numpy matplotlib seaborn
+## Usage
+To use this project, follow these steps:
+
+   1. Open your Python IDE (e.g., PyCharm, Jupyter Notebook).
+   2. Import the required libraries:
+      ```bash
+         import pandas as pd
+         import numpy as np
+         import matplotlib.pyplot as plt
+         import seaborn as sns
+      ```
+   3. Load the dataset and begin visualizing and manipulating the data. The project includes various graphs to analyze trends and answers to the business questions.
+
+## Dependencies
+This project requires the following dependencies:
+
+   1. Python IDE (e.g., PyCharm, Jupyter Notebook)
+      Libraries:
+         Pandas
+         Numpy
+         Matplotlib
+         Seaborn
+
+## License
+This project is open for use without a specified license.
+
+
+
+
+
+
+
+
+   
