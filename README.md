@@ -29,6 +29,9 @@ To use this project, follow these steps:
 
 ## Code Snippets
 
+![](https://github.com/Boolean-01/Zomato_Exploratory_data_analysis_project/blob/main/snip1.png)
+
+
 
 ## Dependencies
 This project requires the following dependencies:
