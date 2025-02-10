@@ -27,6 +27,9 @@ To use this project, follow these steps:
       ```
    3. Load the dataset and begin visualizing and manipulating the data. The project includes various graphs to analyze trends and answers to the business questions.
 
+## Code Snippets
+
+
 ## Dependencies
 This project requires the following dependencies:
 
